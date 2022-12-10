@@ -12,3 +12,6 @@ public void m1() {
 	}
 
 }
+//public global leveel
+//default wititin package
+//abstract class implement through obj reference

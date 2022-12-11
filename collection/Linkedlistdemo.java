@@ -31,7 +31,6 @@ public class Linkedlistdemo {
 
 		}
 		System.out.println("--------------");
-
 		for (Object obj : ll1) {
 			System.out.println(obj);
 		}

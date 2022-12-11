@@ -7,9 +7,9 @@ public class hashcode {
 		String s2 = new String("gagan");
 		System.out.println(s1 == s2);
 		System.out.println(s1.equals(s2));
-		StringBuffer s3 = new StringBuffer("gagan");
 		StringBuffer s31 = new StringBuffer("gagan");
-		System.out.println(s31.equals(s31));
+		StringBuffer s311 = new StringBuffer("gagan");
+		System.out.println(s311.equals(s311));
 	}
 
 }

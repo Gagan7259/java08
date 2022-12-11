@@ -1,6 +1,5 @@
 package polly2;
 
-import polyyy.Demo;
 
 public class Demo {
 
@@ -21,8 +20,6 @@ public class Demo {
 		System.out.println(s2.getId() + ":" + s2.getName() + ":" + s2.getBalancs());
 		s1.cal_bal();
 		s2.cal_bal();
-		service.showdetails(s1);
-		service.showdetails(s2);
 
 	}
 
